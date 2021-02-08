@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Es distinto o es el main este archivo
